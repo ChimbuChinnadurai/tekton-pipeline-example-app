@@ -36,5 +36,5 @@ Once the Docker image is built, you can check it out at: `http://localhost`
 
 ## Tekton Pipeline & ArgoCD Application Deployments
 
-Looking how to use Tekton and ArgoCD to build and deploy this code to your Kubernetes cluster? Head on over to [d0-labs/tekton-pipeline-example-pipeline](https://github.com/d0-labs/tekton-pipeline-example-pipeline)
+Looking how to use Tekton and ArgoCD to build and deploy this code to your Kubernetes cluster? Head on over to [d0-labs/tekton-pipeline-example-pipeline](https://github.com/d0-labs/tekton-pipeline-example-pipeline
 
